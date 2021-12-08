@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\Designer-PDF-Viewer.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\Designer-PDF-Viewer.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\bin\Debug\Designer-PDF-Viewer.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\Designer-PDF-Viewer.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\Designer-PDF-Viewer.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\Designer-PDF-Viewer.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Designer-PDF-Viewer\Designer-PDF-Viewer\Designer-PDF-Viewer\obj\Debug\Designer-PDF-Viewer.pdb
